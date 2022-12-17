@@ -1,0 +1,63 @@
+#!/bin/bash
+
+echo "
+                         _                                         
+                        (_)                               _        
+  ____ _____  ____ _   _ _  ____ _____ ____  _____ ____ _| |_  ___ 
+ / ___) ___ |/ _  | | | | |/ ___) ___ |    \| ___ |  _ (_   _)/___)
+| |   | ____| |_| | |_| | | |   | ____| | | | ____| | | || |_|___ |
+|_|   |_____)\__  |____/|_|_|   |_____)_|_|_|_____)_| |_| \__|___/ 
+                |_|                                                
+By Gilmar Filho 2022"
+
+
+echo Começando a instação, instalando 12 dependêpendencia 
+
+
+echo 1
+
+apt-get install libssl-dev 
+
+echo 2
+
+apt-get install libssh-dev 
+
+echo 3
+
+apt-get install libidn11-dev 
+
+echo 4
+
+apt-get install libpcre3-dev 
+
+echo 5
+
+apt-get install libgtk2.0-dev 
+
+echo  6
+ 
+apt-get install libmysqlclient-dev
+
+echo 7
+
+apt-get install libpq-dev libsvn-dev 
+
+echo 8
+
+apt-get install firebird-dev 
+
+echo 9
+
+apt-get install libmemcached-dev
+
+echo 10
+
+apt-get install libgpg-error-dev 
+
+echo 11
+
+apt-get install libgcrypt11-dev
+
+echo 12
+
+apt-get libgcrypt20-dev
