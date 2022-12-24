@@ -1,5 +1,17 @@
 # hy
 
+
+# COMPILAR
+
+```
+./configure
+make
+make install
+```
+
+
+
+
 ***Gmail Brute force***
 
 ```
